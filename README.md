@@ -6,11 +6,11 @@ Karabiner-Elements 用の設定ファイルです。Option + H/J/K/L で矢印�
 
 ## Mac の既存機能について
 
-Mac には標準で **Control + Z** と **H/J/K/L** を組み合わせた矢印操作があります。
+Mac には標準で **Z** と **H/J/K/L** を組み合わせた矢印入力があります。
 
-- **Control + Z** を押した状態で **H/J/K/L** → 左/下/上/右
+- **Z** を押した状態で **H/J/K/L** → 左/下/上/右
 
-![Z + HJKL での矢印操作（Mac 標準）](./images/z_hjkl.png)
+![Z + HJKL での矢印入力（Mac 標準）](./images/z_hjkl.png)
 
 今回の設定は、この考え方をベースにしたオプションです。
 
